@@ -27,8 +27,8 @@ I'm currently a tech trainee at LaFosse Academy. I'm looking forward to kick-sta
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Git" width="40" height="40"/>
 </div>
 
 <br>
@@ -36,10 +36,16 @@ I'm currently a tech trainee at LaFosse Academy. I'm looking forward to kick-sta
 ## Projects
 
 ### Logic Puzzle Game
+Uses vanilla JavaScript
+A game application where users can play logic grid puzzles to improve their critical thinking skills in an enjoyable way. This project uses vanilla JavaScript.
 
 ### Community Forum
+Uses vanilla JavaScript
+An application requiring user authentication that provides a platform for community members to discuss and resolve issues in their neighbourhood. It will soon include a feature that allows administrators to close issues raised by the members and write short reports detailing their resolution.
 
 ### Study App
+Uses React and JavaScript
+This application allows users to create and revise flashcards and notes, designed with a traditional lined-paper aesthetic. Upcoming features include user streak tracking, support for mathematical notation, and the ability to incorporate images into cards and notes.
 
 ---
 
