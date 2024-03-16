@@ -14,7 +14,7 @@
 
 # Rahma Ali
 
-I'm currently a tech trainee at LaFosse Academy. I am now looking forward to kick-starting my career in the technology industry.
+I'm currently a tech trainee at LaFosse Academy. I'm looking forward to kick-starting my career in the technology industry!
 
 ### :hammer_and_wrench: Languages and Tools I'm Currently Learning :
 
