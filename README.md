@@ -1,4 +1,4 @@
-### Rahma Ali
+# Rahma Ali
 
 I'm currently a tech trainee at LaFosse Academy based in London, UK. I am now looking forward to kick-starting my career in the technology industry.
 
@@ -7,11 +7,11 @@ Javascript, HTML and CSS | React | Python | Docker | SQL
 
 ## Projects
 
-# Logic Puzzle Game
+### Logic Puzzle Game
 
-# Community Forum
+### Community Forum
 
-# Study App
+### Study App
 
 ## Links
 
