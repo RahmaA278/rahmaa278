@@ -10,6 +10,10 @@
   </a>
 </div>
 
+<br>
+
+<div borderBottom="10px dashed purple"></div>
+
 # Rahma Ali
 
 I'm currently a tech trainee at LaFosse Academy based in London, UK. I am now looking forward to kick-starting my career in the technology industry.
