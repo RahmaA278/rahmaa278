@@ -10,11 +10,13 @@
   </a>
 </div>
 
+<p align="center">London, UK</p>
+
 ---
 
 # Rahma Ali
 
-I'm currently a tech trainee at LaFosse Academy based in London, UK. I am now looking forward to kick-starting my career in the technology industry.
+I'm currently a tech trainee at LaFosse Academy, based in London, UK. I am now looking forward to kick-starting my career in the technology industry.
 
 ## Currently learning
 Javascript, HTML and CSS | React | Python | Docker | SQL
