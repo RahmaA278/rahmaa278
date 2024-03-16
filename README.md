@@ -16,6 +16,8 @@
 
 I'm currently a tech trainee at LaFosse Academy. I am now looking forward to kick-starting my career in the technology industry.
 
+<br>
+
 ## :hammer_and_wrench: Languages and Tools I'm Currently Learning :
 
 <div>
@@ -30,6 +32,8 @@ I'm currently a tech trainee at LaFosse Academy. I am now looking forward to kic
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+<br>
 
 ## Projects
 
