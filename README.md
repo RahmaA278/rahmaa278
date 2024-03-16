@@ -27,4 +27,6 @@ Javascript, HTML and CSS | React | Python | Docker | SQL
 
 ### Study App
 
+---
+
 _based in London, UK_
