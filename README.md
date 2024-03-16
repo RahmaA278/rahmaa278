@@ -10,7 +10,7 @@
   </a>
 </div>
 
-<p align="center">London, UK</p>
+<p align="center"><small>London, UK</small></p>
 
 ---
 
