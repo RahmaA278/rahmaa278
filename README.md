@@ -12,7 +12,7 @@
 
 <br>
 
-<div border-bottom="10px dashed purple"></div>
+<div style="border-bottom: 10px dashed purple;"></div>
 
 # Rahma Ali
 
