@@ -10,9 +10,7 @@
   </a>
 </div>
 
-<br>
-
-<p style="background-color: #ff0000; height: 3px; width: 100%;">a</p>
+---
 
 # Rahma Ali
 
