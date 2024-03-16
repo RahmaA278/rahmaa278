@@ -12,8 +12,7 @@
 
 <br>
 
-<div style="height: 3px; background-color: #A020F0;"></div>
-
+<p style="background-color: #ff0000; height: 3px; width: 100%;"></p>
 
 # Rahma Ali
 
