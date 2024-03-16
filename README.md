@@ -35,15 +35,15 @@ I'm currently a tech trainee at LaFosse Academy. I'm looking forward to kick-sta
 
 ## Projects
 
-### Logic Puzzle Game
+#### Logic Puzzle Game
 Uses vanilla JavaScript
 A game application where users can play logic grid puzzles to improve their critical thinking skills in an enjoyable way. This project uses vanilla JavaScript.
 
-### Community Forum
+#### Community Forum
 Uses vanilla JavaScript
 An application requiring user authentication that provides a platform for community members to discuss and resolve issues in their neighbourhood. It will soon include a feature that allows administrators to close issues raised by the members and write short reports detailing their resolution.
 
-### Study App
+#### Study App
 Uses React and JavaScript
 This application allows users to create and revise flashcards and notes, designed with a traditional lined-paper aesthetic. Upcoming features include user streak tracking, support for mathematical notation, and the ability to incorporate images into cards and notes.
 
