@@ -1,16 +1,18 @@
-### Hi there 👋
+### Rahma Ali
 
-<!--
-**RahmaA278/rahmaa278** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a tech trainee at LaFosse Academy based in London, UK. I am now looking forward to kick-starting my career in the technology industry.
 
-Here are some ideas to get you started:
+#Currently learning
+Javascript, HTML and CSS | React | Python | Docker | SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+# Logic Puzzle Game
+
+# Community Forum
+
+# Study App
+
+## Links
+
+https://www.linkedin.com/in/rahma-ali8
