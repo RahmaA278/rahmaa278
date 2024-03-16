@@ -29,4 +29,4 @@ Javascript, HTML and CSS | React | Python | Docker | SQL
 
 ---
 
-_based in London, UK_
+_I'm based in London, UK_
