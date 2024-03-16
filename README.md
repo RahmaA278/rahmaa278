@@ -12,7 +12,8 @@
 
 <br>
 
-<div style="border-bottom: 10px dashed #A020F0;"></div>
+<div style="height: 3px; background-color: #A020F0;"></div>
+
 
 # Rahma Ali
 
