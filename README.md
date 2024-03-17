@@ -38,12 +38,12 @@ I'm currently a tech trainee at LaFosse Academy. I'm looking forward to kick-sta
 #### Logic Puzzle Game
 Uses vanilla JavaScript
 
-A game application where users can play logic grid puzzles to improve their critical thinking skills in an enjoyable way. This project uses vanilla JavaScript.
+A game application where users can play logic grid puzzles to improve their critical thinking skills in an enjoyable way.
 
 #### Community Forum
 Uses vanilla JavaScript
 
-An application requiring user authentication that provides a platform for community members to discuss and resolve issues in their neighbourhood. It will soon include a feature that allows administrators to close issues raised by the members and write short reports detailing their resolution.
+An application requiring user authentication that provides a platform for community members to discuss and resolve issues in their neighbourhood. It will soon include a feature that allows administrators to close issues raised by the members and write short reports detailing their resolutions.
 
 #### Study App
 Uses React and JavaScript
